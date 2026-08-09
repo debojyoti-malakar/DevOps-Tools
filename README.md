@@ -67,3 +67,40 @@ aws --version
 ```
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+
+## 📋 DevOps Tools Overview
+
+| Tool | Purpose |
+|---|---|
+| Git | Version control |
+| Docker | Containerization |
+| Jenkins | Automation and CI/CD |
+| Kubernetes | Container orchestration |
+| AWS | Cloud computing |
+
+## 🛠️ Common DevOps Activities
+
+- Version control with Git
+- Containerization with Docker
+- Continuous Integration with Jenkins
+- Container orchestration with Kubernetes
+- Cloud computing with AWS
+
+## 💻 Useful Commands
+
+Use `git status` to check the Git repository.
+
+Use `docker --version` to check Docker.
+
+Use `kubectl get pods` to view Kubernetes pods.
+
+Use `aws --version` to check the AWS CLI.
+
+## 🖼️ DevOps
+
+![DevOps](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg)
+
+## 💡 DevOps Quote
+
+> 🚀 Automate everything that can be automated.
+> 
